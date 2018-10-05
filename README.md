@@ -3,8 +3,8 @@ For the practice of good program designing habits
 
 ## Analyzing the problem:
 1. What *results* are we trying to obtain--what is the required output?
-2. What data needs to be given--what is the *necessary input*?
-3. How will we obtain the required output from the given input? *What program will do to turn input into output; complete the task; steps to completion.*
+2. What data needs to be given--what is the *necessary input*? Where will the program obtain data?
+3. How will we obtain the required output from the given input? *What program will do to turn input into output; process incoming data; complete the task.*
 
 
 ### Sources
